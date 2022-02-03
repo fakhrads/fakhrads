@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hai 👋, my name is Fakhri Adi Saputra
 
-<!--
-**fakhrads/fakhrads** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Coding is my passion, but loving you is my goal.
 
-Here are some ideas to get you started:
+Have rich knowledge of :
+- TypeScript 
+- ReactJS
+- React Native
+- Flutter
+- NodeJS
+- Python
+- Laravel
+- MySQL
+- SQLite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
