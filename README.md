@@ -1,5 +1,7 @@
 # Hai 👋, my name is Fakhri Adi Saputra
 
+[![wakatime](https://wakatime.com/badge/github/fakhrads/fakhrads.svg)](https://wakatime.com/badge/github/fakhrads/fakhrads)
+
 Coding is my passion, but loving you is my goal.
 
 Have rich knowledge of :
