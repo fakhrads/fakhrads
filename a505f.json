@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1667103182",
-      "filename": "lineage-19.1-20221030-UNOFFICIAL-a505f.zip",
-      "id": "19c0e4c7429e0bf5b7747a03e3db3ca8",
+      "datetime": "1667103183",
+      "filename": "lineage-19.1-20221030-UNOFFICIAL-a505f-signed.zip",
+      "id": "n9vw953y8thbgvotleriksfdb",
       "romtype": "UNOFFICIAL",
       "size": "773249000",
-      "url": "https://github.com/fakhrads/fakhrads/releases/download/lineage/lineage-19.1-20221030-UNOFFICIAL-a505f.zip",
+      "url": "https://github.com/fakhrads/fakhrads/releases/download/release/lineage-19.1-20221030-UNOFFICIAL-a505f-signed.zip",
       "version": "19.1"
     }
   ]
