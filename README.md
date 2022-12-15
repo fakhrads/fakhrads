@@ -26,4 +26,4 @@ If you want to take a look at my personal (private) projects to see if I meet th
 - https://www.linkedin.com/in/fakhrads
 
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@2f25a035-78ba-42b5-9317-d43ce5b8c9ef/ef3e53fd-9f65-4a54-ab31-f7e973d3d918.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@2f25a035-78ba-42b5-9317-d43ce5b8c9ef/c0f7d59c-a9e9-4c54-a744-b5a6e24903b6.png" /></a>
