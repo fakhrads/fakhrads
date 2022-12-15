@@ -1,7 +1,26 @@
 # Hai 👋, my name is Fakhri Adi Saputra
 
-[![wakatime](https://wakatime.com/badge/github/fakhrads/fakhrads.svg)](https://wakatime.com/badge/github/fakhrads/fakhrads)
+I have work with many technologies but there is my favorite technologies :
 
-Coding is my passion, but loving you is my goal.
+* AdonisJS 
+* ReactJS 
+* Laravel 
+* React Native
+* Flutter 
+* Golang 
+* MySQL / PostgreSQL
+* Ethereum (Im not sure but I like these technologies)
+* Solana Blockchain
 
-<embed src="https://wakatime.com/share/@2f25a035-78ba-42b5-9317-d43ce5b8c9ef/ccdaee06-6528-4797-a691-077ab1f47f91.svg"></embed>
+For programming language specific, I have work this these languages:
+* TypeScript/JavaScript
+* Golang 
+* Python 
+* Bash
+* PHP
+* Rust
+* Solidity (For making a blockchain Apps)
+
+If you want to take a look at my personal (private) projects to see if I meet the skills you are looking for. You can contact me at:
+
+- https://www.linkedin.com/in/fakhrads
