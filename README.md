@@ -1,3 +1,3 @@
-# Hi 👋, my name is Fakhri Adi Saputra
+# Hello, I am Fakhri
 
 - https://www.linkedin.com/in/fakhrads
