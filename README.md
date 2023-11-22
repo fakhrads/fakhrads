@@ -5,5 +5,7 @@
 <code>I'm a Software Engineer 🐱‍💻</code> 
 <code>I Love Coffee☕ & Cats🐈</code><br/>
 <br><img width="500px" src="https://github.com/fakhrads/fakhrads/blob/main/coding.gif">
+<br><img src="https://github-readme-stats.vercel.app/api?username=fakhrads&include_all_commits=true&show_icons=true&theme=react">
+<br>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fakhrads&theme=react&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <br><br><b>Skills :</b> <code>Laravel</code> | <code>AdonisJS</code> | <code>Golang</code> | <code>ReactJS/NextJS</code> | <code>Java</code> | <code>HTML</code> | <code>CSS</code>
 
