@@ -5,7 +5,7 @@
 <code>I'm a Software Engineer 🐱‍💻</code> 
 <code>I Love Coffee☕ & Cats🐈</code><br/>
 <br><img width="500px" src="https://github.com/fakhrads/fakhrads/blob/main/coding.gif">
-<br><br><b>Skills :</b> <code>Laravel</code> | <code>AdonisJS</code> | <code>Golang</code> | <code>ReactJS/NextJS</code> | <code>Java</code> | <code>HTML</code> | <code>CSS</code>
+<br><br><b>Skills :</b> <code>Laravel</code> | <code>AdonisJS</code> | <code>Golang Fiber</code> | <code>ReactJS/NextJS</code> | <code>PHP</code> | <code>JavaScript/TS</code> | <code>Java</code> | <code>HTML</code> | <code>CSS</code>
 <br><br><img src="https://github-readme-stats.vercel.app/api?username=fakhrads&include_all_commits=false&show_icons=true&theme=tokyonight">
 <br><br><img src="https://github-readme-streak-stats.herokuapp.com?user=fakhrads&theme=dark&mode=weekly">  
 
