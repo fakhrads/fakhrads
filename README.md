@@ -4,4 +4,4 @@
 <div align="center" width="50">
 <code>I'm a Software Engineer 🐱‍💻</code> 
 <code>I Love Coffee☕ & Cats🐈</code><br/>
-<br><img width="350px" src="https://github.com/fakhrads/fakhrads/blob/main/coding.gif">
+<br><img width="500px" src="https://github.com/fakhrads/fakhrads/blob/main/coding.gif">
