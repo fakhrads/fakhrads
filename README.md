@@ -1,11 +1,11 @@
+##### Hi there, I'm fakhrads (Fakhri Adi Saputra) 👋
+A devoted Potterhead and Greek mythology enthusiast who spends his days weaving magic in the world of programming. My primary wand, the mighty JavaScript/TypeScript, has been the cornerstone of his spellcasting for years. Recently, I decided to embark on a quest into the enchanted realm of Golang, curious about the whispers of magic in the air surrounding Microservices.
 
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=006BF7&random=false&width=500&lines=Hey+There%2C+My+Name+is+Fakhri+Adi+Saputra">
-<div align="center" width="50">
-<code>I'm a Software Engineer 🐱‍💻</code> 
-<code>I Love Coffee☕ & Cats🐈</code><br/>
-<br><img width="500px" src="https://github.com/fakhrads/fakhrads/blob/main/coding.gif">
-<br><br><b>Skills :</b> <code>Laravel</code> | <code>AdonisJS</code> | <code>Golang Fiber</code> | <code>ReactJS/NextJS</code> | <code>PHP</code> | <code>JavaScript/TS</code> | <code>Java</code> | <code>HTML</code> | <code>CSS</code>
+> help --contact
+> linkedin: https://linkedin.com/in/fakhrads
+> instagram: https://instagram.com/fakhrads
+> github: https://github.com/fakhrads
+> medium: @fakhrads
+
 <br><br><img src="https://github-readme-stats.vercel.app/api?username=fakhrads&include_all_commits=false&show_icons=true&theme=tokyonight">
-<br><br><img src="https://github-readme-streak-stats.herokuapp.com?user=fakhrads&theme=dark&mode=weekly">  
 
