@@ -25,8 +25,8 @@ I maintain unofficial **Evolution X 17 (Android 17)** builds for the POCO F7, an
 | [**android_device_xiaomi_onyx**](https://github.com/fakhrads/android_device_xiaomi_onyx) | Device tree for the Snapdragon 8s Gen 4 (sm8735) |
 | [**hyperkitchen**](https://github.com/fakhrads/hyperkitchen) | Electron ROM kitchen for HyperOS CN: unpack, debloat, GApps, framework patches, repack |
 | [**BypassCharging**](https://github.com/fakhrads/android_packages_apps_BypassCharging) | Bypass-charging Quick Settings tile built on Lineage Health, no root needed |
-| [**LunarisDolby**](https://github.com/fakhrads/android_packages_apps_LunarisDolby) · [**RootJamesDSP**](https://github.com/fakhrads/RootJamesDSP) | Audio stack: Dolby control app and JamesDSP for KernelSU/Magisk |
-| [**onyx-leicacamera**](https://github.com/fakhrads/proprietary_vendor_xiaomi_onyx-leicacamera) | Leica camera port for onyx |
+| [**LunarisDolby**](https://github.com/fakhrads/android_packages_apps_LunarisDolby) | Dolby Atmos app in Jetpack Compose: EQ with a live frequency curve, per-app profiles, QS tile, preset import/export |
+| [**JamesDSPManager**](https://github.com/fakhrads/JamesDSPManager) · [**RootJamesDSP**](https://github.com/fakhrads/RootJamesDSP) | JamesDSP as a Magisk/KernelSU module with AIDL audio HAL support, plus the root app that drives it |
 
 ### 🤖 AI agents
 
@@ -40,7 +40,14 @@ I maintain unofficial **Evolution X 17 (Android 17)** builds for the POCO F7, an
 | Project | What it is |
 |---|---|
 | [**Qorvum**](https://github.com/fakhrads/qorvum) | Permissioned **post-quantum** blockchain in Rust: Dilithium3 PKI, Kyber-1024 PQ-TLS, HotStuff BFT, RocksDB |
-| [**qorvum-explorer**](https://github.com/fakhrads/qorvum-explorer) · [**contract SDK**](https://github.com/fakhrads/qorvum-contract-sdk) | Block explorer and smart contract SDK for Qorvum |
+| [**qorvum-explorer**](https://github.com/fakhrads/qorvum-explorer) | Real-time node console over WebSocket: blocks and transactions, contracts, PKI enroll/revoke, P2P topology, API playground |
+| [**Contract SDK**](https://github.com/fakhrads/qorvum/tree/main/crates/chain-sdk) | `chain-sdk`: write Qorvum contracts in Rust or Go, run natively or as WASM |
+
+### 🛠️ Developer tools
+
+| Project | What it is |
+|---|---|
+| [**tools-website**](https://github.com/fakhrads/tools-website) | 17 dev tools in one Next.js app: JWT decoder, regex tester, SQL playground and formatter, cron builder, HTTP requester, hash/ID generators, and more |
 
 > I also build closed-source products: a modular ERP with hybrid POS, a passkey/WebAuthn identity service, and multi-tenant SaaS.
 
