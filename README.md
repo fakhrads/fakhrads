@@ -10,7 +10,6 @@
 
 [![Website](https://img.shields.io/badge/fakhrads.dev-1a1b27?style=for-the-badge&logo=googlechrome&logoColor=7aa2f7)](https://fakhrads.dev)
 [![ROM builds](https://img.shields.io/badge/ROM_builds-SourceForge-1a1b27?style=for-the-badge&logo=sourceforge&logoColor=ff6600)](https://sourceforge.net/projects/fakhrads-builds/files/)
-[![0xNode](https://img.shields.io/badge/0xNode-live-1a1b27?style=for-the-badge&logo=ethereum&logoColor=bb9af7)](https://0xnode.fakhrads.dev)
 
 </div>
 
@@ -35,7 +34,6 @@ I maintain unofficial **Evolution X 17 (Android 17)** builds for the POCO F7, an
 |---|---|
 | [**agentic-core**](https://github.com/fakhrads/agentic-core) | Autonomous agent daemon: planner/executor loop, pgvector memory, playbooks, a night shift, a tool forge and a TUI dashboard |
 | [**Caduceus**](https://github.com/fakhrads/vania-ui) | Mission control for [Hermes Agent](https://github.com/NousResearch/hermes-agent): memory explorer, 2D/3D knowledge graph, subagent telemetry |
-| [**0xNode**](https://github.com/fakhrads/0xnode) | Capability exchange for AI agents: pay-per-call tools over REST and MCP, with settlement on Polygon, Arbitrum and Base |
 
 ### ⛓️ Blockchain
 
